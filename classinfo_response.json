@@ -1,0 +1,301 @@
+{
+  "name": "Physics 2",
+  "teacher": "Christian Tjitraganda",
+  "gradeAsLetter": "A+",
+  "gradeAsPercentage": "100",
+  "categories": [
+    {
+      "name": "Participation",
+      "gradeAsLetter": "A+",
+      "gradeAsPercentage": "100",
+      "weight": "10"
+    },
+    {
+      "name": "Homework",
+      "gradeAsLetter": "A",
+      "gradeAsPercentage": "96",
+      "weight": "15"
+    },
+    {
+      "name": "Quiz",
+      "gradeAsLetter": "A",
+      "gradeAsPercentage": "95",
+      "weight": "15"
+    },
+    {
+      "name": "Unit Test",
+      "gradeAsLetter": "A+",
+      "gradeAsPercentage": "101",
+      "weight": "20"
+    },
+    {
+      "name": "Practical Assesment",
+      "gradeAsLetter": "A+",
+      "gradeAsPercentage": "100",
+      "weight": "20"
+    }
+  ],
+  "assignments": [
+    {
+      "due": "Jun04",
+      "name": "Final Exam",
+      "category": "Final Exam",
+      "gradeAsLetter": "",
+      "gradeAsPercentage": "",
+      "weight": "",
+      "updated": ""
+    },
+    {
+      "due": "May29",
+      "name": "Notes Check 3",
+      "category": "Participation",
+      "gradeAsLetter": "A+",
+      "gradeAsPercentage": "100",
+      "weight": "1%",
+      "updated": "6/2/24"
+    },
+    {
+      "due": "May27",
+      "name": "Experiment 2 - Stationary waves",
+      "category": "Practical Assesment",
+      "gradeAsLetter": "A+",
+      "gradeAsPercentage": "100",
+      "weight": "10%",
+      "updated": "6/2/24"
+    },
+    {
+      "due": "May24",
+      "name": "Homework 7 - Stationary waves",
+      "category": "Homework",
+      "gradeAsLetter": "A+",
+      "gradeAsPercentage": "99",
+      "weight": "2.1%",
+      "updated": "6/2/24"
+    },
+    {
+      "due": "May24",
+      "name": "Test 3 - Waves",
+      "category": "Unit Test",
+      "gradeAsLetter": "A+",
+      "gradeAsPercentage": "101",
+      "weight": "6.7%",
+      "updated": "6/3/24"
+    },
+    {
+      "due": "May21",
+      "name": "Exercise 7 - Stationary waves",
+      "category": "Participation",
+      "gradeAsLetter": "A+",
+      "gradeAsPercentage": "100",
+      "weight": "1%",
+      "updated": "6/2/24"
+    },
+    {
+      "due": "May02",
+      "name": "Homework 6 - Superposition of waves",
+      "category": "Homework",
+      "gradeAsLetter": "A-",
+      "gradeAsPercentage": "90",
+      "weight": "2.1%",
+      "updated": "6/2/24"
+    },
+    {
+      "due": "Apr30",
+      "name": "Quiz 6 - Superposition of Waves",
+      "category": "Quiz",
+      "gradeAsLetter": "A",
+      "gradeAsPercentage": "94",
+      "weight": "2.5%",
+      "updated": "4/30/24"
+    },
+    {
+      "due": "Apr26",
+      "name": "Exercise 6 - Superposition of waves",
+      "category": "Participation",
+      "gradeAsLetter": "A+",
+      "gradeAsPercentage": "100",
+      "weight": "1%",
+      "updated": "6/2/24"
+    },
+    {
+      "due": "Apr26",
+      "name": "Homework 5 - Waves",
+      "category": "Homework",
+      "gradeAsLetter": "A",
+      "gradeAsPercentage": "96",
+      "weight": "2.1%",
+      "updated": "6/2/24"
+    },
+    {
+      "due": "Apr24",
+      "name": "Quiz 5 - Waves",
+      "category": "Quiz",
+      "gradeAsLetter": "A+",
+      "gradeAsPercentage": "100",
+      "weight": "2.5%",
+      "updated": "4/25/24"
+    },
+    {
+      "due": "Mar27",
+      "name": "Exercise 5 - Waves",
+      "category": "Participation",
+      "gradeAsLetter": "A+",
+      "gradeAsPercentage": "100",
+      "weight": "1%",
+      "updated": "6/2/24"
+    },
+    {
+      "due": "Mar22",
+      "name": "Notes Check 2",
+      "category": "Participation",
+      "gradeAsLetter": "A+",
+      "gradeAsPercentage": "100",
+      "weight": "1%",
+      "updated": "6/2/24"
+    },
+    {
+      "due": "Mar18",
+      "name": "Test 2 - Kichhoff and Resistivity",
+      "category": "Unit Test",
+      "gradeAsLetter": "A+",
+      "gradeAsPercentage": "101",
+      "weight": "6.7%",
+      "updated": "5/31/24"
+    },
+    {
+      "due": "Feb27",
+      "name": "Homework 4 - Resistance and Resistivity",
+      "category": "Homework",
+      "gradeAsLetter": "A",
+      "gradeAsPercentage": "95",
+      "weight": "2.1%",
+      "updated": "6/2/24"
+    },
+    {
+      "due": "Feb26",
+      "name": "Experiment 1 - Kirchhoff's Laws",
+      "category": "Practical Assesment",
+      "gradeAsLetter": "A+",
+      "gradeAsPercentage": "100",
+      "weight": "10%",
+      "updated": "6/2/24"
+    },
+    {
+      "due": "Feb26",
+      "name": "Notes Check 1",
+      "category": "Participation",
+      "gradeAsLetter": "A+",
+      "gradeAsPercentage": "100",
+      "weight": "1%",
+      "updated": "6/2/24"
+    },
+    {
+      "due": "Feb26",
+      "name": "Exercise 4 - Resistance and Resistivity",
+      "category": "Participation",
+      "gradeAsLetter": "A+",
+      "gradeAsPercentage": "100",
+      "weight": "1%",
+      "updated": "6/2/24"
+    },
+    {
+      "due": "Feb23",
+      "name": "Quiz 4 - Resistance and Resistivity",
+      "category": "Quiz",
+      "gradeAsLetter": "B+",
+      "gradeAsPercentage": "88",
+      "weight": "2.5%",
+      "updated": "2/24/24"
+    },
+    {
+      "due": "Feb19",
+      "name": "Homework 3 - Kirchhoff",
+      "category": "Homework",
+      "gradeAsLetter": "A+",
+      "gradeAsPercentage": "100",
+      "weight": "2.1%",
+      "updated": "6/2/24"
+    },
+    {
+      "due": "Feb15",
+      "name": "Quiz 3 - Kirchhoff's Laws",
+      "category": "Quiz",
+      "gradeAsLetter": "A-",
+      "gradeAsPercentage": "92",
+      "weight": "2.5%",
+      "updated": "6/4/24"
+    },
+    {
+      "due": "Feb08",
+      "name": "Exercise 3 - Kirchhoff's Laws",
+      "category": "Participation",
+      "gradeAsLetter": "A+",
+      "gradeAsPercentage": "100",
+      "weight": "1%",
+      "updated": "6/2/24"
+    },
+    {
+      "due": "Feb05",
+      "name": "Test 1 - Electric Fields and Current",
+      "category": "Unit Test",
+      "gradeAsLetter": "A+",
+      "gradeAsPercentage": "100",
+      "weight": "6.7%",
+      "updated": "5/31/24"
+    },
+    {
+      "due": "Feb01",
+      "name": "Quiz 2 - Electric current, potential difference, and resistance",
+      "category": "Quiz",
+      "gradeAsLetter": "A+",
+      "gradeAsPercentage": "100",
+      "weight": "2.5%",
+      "updated": "2/2/24"
+    },
+    {
+      "due": "Jan29",
+      "name": "Homework 2 - Electric current, potential difference, and resistance",
+      "category": "Homework",
+      "gradeAsLetter": "A-",
+      "gradeAsPercentage": "90",
+      "weight": "2.1%",
+      "updated": "6/2/24"
+    },
+    {
+      "due": "Jan26",
+      "name": "Exercise 2 - Electric current, potential difference, and resistance",
+      "category": "Participation",
+      "gradeAsLetter": "A+",
+      "gradeAsPercentage": "100",
+      "weight": "1%",
+      "updated": "6/2/24"
+    },
+    {
+      "due": "Jan18",
+      "name": "Homework 1 - Electric Fields",
+      "category": "Homework",
+      "gradeAsLetter": "A+",
+      "gradeAsPercentage": "100",
+      "weight": "2.1%",
+      "updated": "6/2/24"
+    },
+    {
+      "due": "Jan18",
+      "name": "Quiz 1 - Electric Fields",
+      "category": "Quiz",
+      "gradeAsLetter": "A",
+      "gradeAsPercentage": "93",
+      "weight": "2.5%",
+      "updated": "1/23/24"
+    },
+    {
+      "due": "Jan16",
+      "name": "Exercise 1 - Electric Fields",
+      "category": "Participation",
+      "gradeAsLetter": "A+",
+      "gradeAsPercentage": "100",
+      "weight": "1%",
+      "updated": "6/2/24"
+    }
+  ]
+}

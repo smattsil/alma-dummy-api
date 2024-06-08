@@ -1,0 +1,92 @@
+{
+  "classes": [
+    {
+      "name": "Bahasa Indonesia",
+      "teacher": "Futri Hasian Panjaitan",
+      "gradeAsLetter": "A",
+      "gradeAsPercentage": 95,
+      "url": "https://cbcs.getalma.com/home/class/64a6669b0c653746f54fa2d4?back=/home/schedule",
+      "weight": 0.5
+    },
+    {
+      "name": "Chemistry 2",
+      "teacher": "Josephine Claudia Tan",
+      "gradeAsLetter": "A+",
+      "gradeAsPercentage": 97,
+      "url": "https://cbcs.getalma.com/home/class/64a6669b0c653746f54fa2c2?back=/home/schedule",
+      "weight": 1
+    },
+    {
+      "name": "Early Modern Times",
+      "teacher": "Anthonio Joshua",
+      "gradeAsLetter": "A",
+      "gradeAsPercentage": 93,
+      "url": "https://cbcs.getalma.com/home/class/64a6669b0c653746f54fa2ca?back=/home/schedule",
+      "weight": 0.5
+    },
+    {
+      "name": "Elective - Programming 3",
+      "teacher": "William Ruddyanto",
+      "gradeAsLetter": "A+",
+      "gradeAsPercentage": 100,
+      "url": "https://cbcs.getalma.com/home/class/64a6669b0c653746f54fa2f8?back=/home/schedule",
+      "weight": 0.5
+    },
+    {
+      "name": "English Literature 1",
+      "teacher": "Bethany Mathews",
+      "gradeAsLetter": "A+",
+      "gradeAsPercentage": 98,
+      "url": "https://cbcs.getalma.com/home/class/64a666f9b72024463017310c?back=/home/schedule",
+      "weight": 0.5
+    },
+    {
+      "name": "General Physical Education",
+      "teacher": "Reza Israelli T. Wongkar",
+      "gradeAsLetter": "A",
+      "gradeAsPercentage": 96,
+      "url": "https://cbcs.getalma.com/home/class/64a6669b0c653746f54fa2fe?back=/home/schedule",
+      "weight": 0.5
+    },
+    {
+      "name": "Pendidikan Agama & Budi Pekerti",
+      "teacher": "Zorin Wiseputra Muller",
+      "gradeAsLetter": "A+",
+      "gradeAsPercentage": 99,
+      "url": "https://cbcs.getalma.com/home/class/64a6669b0c653746f54fa2dc?back=/home/schedule",
+      "weight": 0.5
+    },
+    {
+      "name": "Pendidikan Pancasila",
+      "teacher": "Sondang Maria Magdalena",
+      "gradeAsLetter": "A",
+      "gradeAsPercentage": 96,
+      "url": "https://cbcs.getalma.com/home/class/64a6669b0c653746f54fa2c6?back=/home/schedule",
+      "weight": 0.5
+    },
+    {
+      "name": "Physics 2",
+      "teacher": "Christian Tjitraganda",
+      "gradeAsLetter": "A+",
+      "gradeAsPercentage": 98,
+      "url": "https://cbcs.getalma.com/home/class/64b4efa2050c697a4d292fec?back=/home/schedule",
+      "weight": 1
+    },
+    {
+      "name": "Precalculus and Trigonometry",
+      "teacher": "Budi",
+      "gradeAsLetter": "A",
+      "gradeAsPercentage": 94,
+      "url": "https://cbcs.getalma.com/home/class/64a6669b0c653746f54fa2e2?back=/home/schedule",
+      "weight": 1
+    },
+    {
+      "name": "Rhetoric 1",
+      "teacher": "Bethany Mathews",
+      "gradeAsLetter": "A",
+      "gradeAsPercentage": 95,
+      "url": "https://cbcs.getalma.com/home/class/64a6669b0c653746f54fa2e8?back=/home/schedule",
+      "weight": 1
+    }
+  ]
+}
