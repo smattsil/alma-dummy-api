@@ -2,6 +2,7 @@ from fastapi import FastAPI, HTTPException, Path
 from fastapi.responses import JSONResponse
 import json
 import os
+import time
 
 app = FastAPI()
 
@@ -20,6 +21,7 @@ async def read_item(school: str, username: str, password: str):
         with open(verify_response, 'r') as file:
             data = json.load(file)
         # Return the JSON data as a response
+        time.sleep(4)
         return JSONResponse(content=data)
 
 
@@ -32,6 +34,7 @@ async def read_item(school: str, username: str, password: str):
         with open(verify_response, 'r') as file:
             data = json.load(file)
         # Return the JSON data as a response
+        time.sleep(4)
         return JSONResponse(content=data)
 
 
@@ -44,6 +47,7 @@ async def read_item(school: str, username: str, password: str):
         with open(verify_response, 'r') as file:
             data = json.load(file)
         # Return the JSON data as a response
+        time.sleep(4)
         return JSONResponse(content=data)
 
 
@@ -56,6 +60,7 @@ async def read_item(school: str, username: str, password: str):
         with open(verify_response, 'r') as file:
             data = json.load(file)
         # Return the JSON data as a response
+        time.sleep(4)
         return JSONResponse(content=data)
 
 
@@ -68,6 +73,7 @@ async def read_item(school: str, username: str, password: str):
         with open(verify_response, 'r') as file:
             data = json.load(file)
         # Return the JSON data as a response
+        time.sleep(4)
         return JSONResponse(content=data)
 
 
@@ -80,6 +86,7 @@ async def read_item(school: str, username: str, password: str):
         with open(verify_response, 'r') as file:
             data = json.load(file)
         # Return the JSON data as a response
+        time.sleep(4)
         return JSONResponse(content=data)
 
 
@@ -92,4 +99,5 @@ async def read_item(school: str, username: str, password: str):
         with open(verify_response, 'r') as file:
             data = json.load(file)
         # Return the JSON data as a response
+        time.sleep(4)
         return JSONResponse(content=data)
