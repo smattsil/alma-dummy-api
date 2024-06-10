@@ -1,6 +1,6 @@
 {
-  "live": "4.0",
-  "history": [
+  "current": "4.0",
+  "past": [
     {
       "grade": "9",
       "value": "3.59"
